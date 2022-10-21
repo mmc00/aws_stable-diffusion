@@ -1,2 +1,2 @@
-# aws_stable-diffusion
+# Stable Diffusion on AWS
  Stable Diffusion implementation on AWS
